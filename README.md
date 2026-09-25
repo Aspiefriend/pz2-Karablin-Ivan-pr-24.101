@@ -13,8 +13,7 @@
 - `app/src/main/res/font/` — шрифты Inter
 
 ## Ссылки
-- **Figma-проект:** [ссылка]
-- **Отчёт:** [ссылка на Google Drive]
+- **Figma-проект:** https://www.figma.com/design/VKUavcOQXM47xc41x8lpvl/pz2-Karablin-Ivan-pr-24.101?node-id=0-1&t=OyEMFSmHxljQ3shs-1
 
 ## Автор
 Караблин Иван, группа пр-24.101
